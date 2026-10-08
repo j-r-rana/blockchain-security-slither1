@@ -18,5 +18,4 @@ solc-select install 0.8.20 && solc-select use 0.8.20
 slither contracts/vulnerable.sol
 ```
 
-## Deploy on GitHub Pages
-1. Push all files to a repo. 2. Settings -> Pages -> Deploy from branch `main` / root. 3. Open the generated link.
+
