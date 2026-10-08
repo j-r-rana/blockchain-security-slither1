@@ -1,6 +1,5 @@
 # Blockchain Security – Slither Tool Discovery
-
-Group project (VGEC): Goswami Manik, Rana Jaydeep, Solanki Sharang, Vahya Vivek.
+project by : Rana Jaydeep Rajeshbhai.
 
 Tool discovered: **Slither** (Trail of Bits) – static analysis for Solidity smart contracts.
 
